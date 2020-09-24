@@ -14,6 +14,7 @@ RUN apt-get install -y --no-install-recommends\
       curl \
       gcc-10 \
       g++ \
+      nodejs \
       build-essential \
       cmake \
       unzip \
